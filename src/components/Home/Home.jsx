@@ -34,7 +34,7 @@ function Home() {
             fontFamily: "poppins",
           }}
         >
-          CodeBox
+          ByteBreeze
         </Typography>
         <Typography
           variant="h4"
@@ -47,7 +47,7 @@ function Home() {
             maxWidth: 600,
           }}
         >
-          CodeBox is a code editor for the web.
+          ByteBreeze is a code editor for the web.
         </Typography>
         <Button
           variant="contained"
