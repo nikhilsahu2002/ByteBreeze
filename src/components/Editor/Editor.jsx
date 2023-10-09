@@ -163,7 +163,7 @@ func main() {
             color: "primary.main",
             // #2196F3
           },
-          "& #CodeBox": {
+          "& #ByteBreeze": {
             borderRight: "2px solid",
             borderColor: "primary.main",
           },
@@ -173,7 +173,7 @@ func main() {
           placeholder=""
           mode={editorlang}
           theme="dracula"
-          name="CodeBox"
+          name="ByteBreeze"
           onChange={(e) => {
             console.log(e);
             setCode(e);

@@ -50,7 +50,7 @@ function Navbar() {
             textDecoration: "none",
           }}
         >
-          CodeBox
+          ByteBreeze
         </Typography>
         {/* <h1>CodeBox</h1> */}
         <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
